@@ -3,3 +3,9 @@
 ################################################################################
 
 /ReadAJson/Temp
+/ReadAJson/.vs
+/ReadAJson/Library
+/ReadAJson/Logs
+/ReadAJson/obj/Debug
+/ReadAJson/Packages
+/ReadAJson/ProjectSettings

@@ -1,0 +1,23 @@
+[
+    {
+        "id": "6100054",
+        "name": "First Level",
+        "sceneName": "Level1",
+        "description": "This is the first level",
+        
+    },
+    {
+        "id": 6100042,
+        "name": "Second Level",
+        "sceneName": "Level2",
+        "description": "This is the second  level",
+       
+    },
+    {
+        "id": 6100043,
+        "name": "Third Level",
+        "sceneName": "Level3",
+        "description": "This is the third level",
+        
+    }
+]
